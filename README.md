@@ -1,3 +1,2 @@
 # Noodles Recipe Page
-<br>
 This project is a simple HTML-based webpage for a delicious noodles recipe, showcasing fundamental HTML concepts. The page includes a detailed recipe description within <p> tags for easy readability. Ingredients and steps are neatly organized using unordered lists (<ul>), ensuring clarity and structure. A form is embedded to collect user feedback or recipe variations, demonstrating basic form handling in HTML. Additionally, appealing images of the noodles are integrated using the <img> tag to enhance visual engagement. This project serves as a practical example of using essential HTML elements to create a user-friendly and visually appealing recipe page.
